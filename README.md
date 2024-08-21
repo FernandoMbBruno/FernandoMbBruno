@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, Seja Bem Vindo
 
-<!--
-**FernandoMbBruno/FernandoMbBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Sou Fernando, Tenho 24 anos e moro em São Paulo - SP :brazil:
+- :iphone: Desenvolvedor Mobile
+- :blue_book: Bacharelado em Ciencia da Computação
 
-Here are some ideas to get you started:
+## Ferramentas Que Tenho Conhecimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+## Vamos conversar ?
